@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715012761072",
+    "project_id": "exam6-14637",
+    "storage_bucket": "exam6-14637.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715012761072:android:c3f34acdfe1e9933172935",
+        "android_client_info": {
+          "package_name": "com.example.meghana_exam6_june"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-qNHqaE89kAb3-Xm8yKgrMXJvyibJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
