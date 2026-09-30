@@ -123,7 +123,7 @@ class _UsersPageState extends State<UsersPage> {
                                 color: Colors.grey.shade300),
                             const SizedBox(height: 16),
                             const Text(
-                              'No users found',
+                              'No user',
                               style: TextStyle(
                                 color: Colors.black54,
                                 fontSize: 16,
